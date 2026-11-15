@@ -11,4 +11,18 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 - [Sobremesas](sobremesas/)
  
 ## Receitas
+
+### Carnes
+-
+
+### Massas
+-
+
+### Saladas
+-
+
+### Sobremesas
+- [Pudim de Leite](sobremesas/pudim-de-leite.md)
+
+### Sopas
 -
