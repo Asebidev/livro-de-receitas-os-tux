@@ -19,7 +19,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 -
 
 ### Saladas
--
+- [Salada Tropical](saladas/salada-tropical.md)
 
 ### Sobremesas
 - [Pudim de Leite](sobremesas/pudim-de-leite.md)
