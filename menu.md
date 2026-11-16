@@ -13,7 +13,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 ## Receitas
 
 ### Carnes
--
+- [Galinha da Angola Ensopada](carnes/galinha-da-angola.md)
 
 ### Massas
 -
