@@ -27,4 +27,4 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 - [Canjica do Igor](sobremesas/canjica-do-igor.md)
 
 ### Sopas
--
+- [Sopa Cremosa de Coração](sopas/sopa-cremosa-de-coracao.md)
