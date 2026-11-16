@@ -23,6 +23,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 
 ### Sobremesas
 - [Pudim de Leite](sobremesas/pudim-de-leite.md)
+- [Monster com leite versão caseira](sobremesas/monster-com-leite.md)
 
 ### Sopas
 -
