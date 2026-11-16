@@ -25,4 +25,4 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 - [Pudim de Leite](sobremesas/pudim-de-leite.md)
 
 ### Sopas
--
+- [Creamy Heart Soup](sopas/creamy-heart-soup.md)
