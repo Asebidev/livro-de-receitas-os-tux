@@ -25,6 +25,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 - [Pudim de Leite](sobremesas/pudim-de-leite.md)
 - [Torta de Maçã](sobremesas/torta-de-maca.md)
 - [Canjica do Igor](sobremesas/canjica-do-igor.md)
+- [Sorbet Arco-Íris](sobremesas/sorbet-arco-iris.md)
 
 ### Sopas
 - [Sopa Cremosa de Coração](sopas/sopa-cremosa-de-coracao.md)
