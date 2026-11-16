@@ -16,7 +16,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 -
 
 ### Massas
--
+- [Quiche Rústica de Batata e Queijo](massas/quiche-rustica-de-batata-e-queijo.md)
 
 ### Saladas
 - [Salada Tropical](saladas/salada-tropical.md)
