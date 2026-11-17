@@ -17,6 +17,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 
 - [Galinha da Angola Ensopada](carnes/galinha-da-angola.md)
 - [Bife Acebolado](carnes/bife-acebolado.md)
+- [Strogonoff de Frango](carnes/strogonoff-de-frango.md)
 
 ### Massas
 
@@ -37,6 +38,5 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 
 ### Sopas
 
-- [Sopa Cremosa de Coração](sopas/sopa-cremosa-de-coracao.md)
 - [Sopa Cremosa de Coração](sopas/sopa-cremosa-de-coracao.md)
 - [Sopa de Macaco](sopas/sopa-de-macaco.md)
