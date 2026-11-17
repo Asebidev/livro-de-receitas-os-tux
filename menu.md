@@ -38,3 +38,5 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 ### Sopas
 
 - [Sopa Cremosa de Coração](sopas/sopa-cremosa-de-coracao.md)
+- [Sopa Cremosa de Coração](sopas/sopa-cremosa-de-coracao.md)
+- [Sopa de Macaco](sopas/sopa-de-macaco.md)
