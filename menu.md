@@ -1,28 +1,34 @@
 # Livro de Receitas – Os Tux
- 
+
 Bem-vindo ao nosso livro colaborativo de receitas!
 Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
- 
+
 ## Categorias
+
 - [Saladas](saladas/)
 - [Carnes](carnes/)
 - [Sopas](sopas/)
 - [Massas](massas/)
 - [Sobremesas](sobremesas/)
- 
+
 ## Receitas
 
 ### Carnes
+
 - [Galinha da Angola Ensopada](carnes/galinha-da-angola.md)
 - [Bife Acebolado](carnes/bife-acebolado.md)
 
 ### Massas
+
 - [Quiche Rústica de Batata e Queijo](massas/quiche-rustica-de-batata-e-queijo.md)
+- [Pão com pão](massas/pao-com-pao.md)
 
 ### Saladas
+
 - [Salada Tropical](saladas/salada-tropical.md)
 
 ### Sobremesas
+
 - [Pudim de Leite](sobremesas/pudim-de-leite.md)
 - [Monster com leite versão caseira](sobremesas/monster-com-leite.md)
 - [Torta de Maçã](sobremesas/torta-de-maca.md)
@@ -30,5 +36,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 - [Sorbet Arco-Íris](sobremesas/sorbet-arco-iris.md)
 
 ### Sopas
+
+- [Sopa Cremosa de Coração](sopas/sopa-cremosa-de-coracao.md)
 - [Sopa Cremosa de Coração](sopas/sopa-cremosa-de-coracao.md)
 - [Sopa de Macaco](sopas/sopa-de-macaco.md)
