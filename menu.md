@@ -27,7 +27,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 ### Saladas
 
 - [Salada Tropical](saladas/salada-tropical.md)
-- [Salada com Tempero de Mashonha](saladas/salada-com-tempero-de-mashonha.md)
+- [Salada Temperada](saladas/salada-temperada.md)
 
 ### Sobremesas
 
