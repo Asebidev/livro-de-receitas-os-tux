@@ -27,6 +27,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 ### Saladas
 
 - [Salada Tropical](saladas/salada-tropical.md)
+- [Salada Temperada](saladas/salada-temperada.md)
 
 ### Sobremesas
 

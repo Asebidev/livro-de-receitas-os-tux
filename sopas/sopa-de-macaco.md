@@ -24,6 +24,6 @@
 7. Adicione o macarrão e cozinhe por cerca de 8 minutos até ficar al dente.
 8. Finalize com bastante cheiro-verde por cima e sirva bem quente. Uma delícia!
 
-## nao se esqueça de retirar a cabeça do macado da panela ou deixe como decoração vai ao seu gosto 
+## nao se esqueça de retirar a cabeça do macaco da panela ou deixe como decoração vai ao seu gosto 
 
 [Voltar à Categoria](.) | [Voltar ao Menu Principal](../menu.md)
