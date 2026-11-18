@@ -1,4 +1,4 @@
-# Salada com Tempero de Mashonha
+# Salada Temperada
 
 ## Ingredientes
 - 1 pé de alface americana ou crespa bem lavada e rasgada
@@ -9,7 +9,7 @@
 - 1 xícara de croutons crocantes (para bater a larica depois)
 - 3 colheres de sopa de azeite de oliva extra virgem
 - Suco de 1 limão taiti
-- 2 colheres de sopa de um orégano bem diferenciado que não se encontra em mercados
+- 2 colheres de sopa de um orégano bem intrigante
 - Sal e pimenta-do-reino a gosto
 
 ## Modo de Preparo
