@@ -12,7 +12,7 @@
 
 ## Persona 2: Zelda
 
-- **Idade e ocupação:** 38 anos, motorista e pai de dois filhos.
+- **Idade e ocupação:** 38 anos, trabalha como motorista e é mãe de dois filhos.
 - **Hábitos e comportamentos:** Costuma preparar refeições para a família, procura receitas práticas e gosta de variar o cardápio.
 - **Dores principais:** Dificuldade para encontrar receitas que agradem a todos e falta de tempo durante a semana.
 - **Objetivos ao usar o livro:** Encontrar receitas rápidas, acessíveis e que sirvam para toda a família.
