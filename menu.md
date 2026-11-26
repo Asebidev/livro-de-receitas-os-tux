@@ -37,6 +37,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 - [Torta de Maçã](sobremesas/torta-de-maca.md)
 - [Canjica do Igor](sobremesas/canjica-do-igor.md)
 - [Sorbet Arco-Íris](sobremesas/sorbet-arco-iris.md)
+- [Bolo de Fubá Simples](sobremesas/bolo-de-fuba.md)
 
 ### Sopas
 
