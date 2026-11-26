@@ -18,6 +18,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Os Tux.
 - [Galinha da Angola Ensopada](carnes/galinha-da-angola.md)
 - [Bife Acebolado](carnes/bife-acebolado.md)
 - [Strogonoff de Frango](carnes/strogonoff-de-frango.md)
+- [Carne de Cnidário](carnes/carne-de-cnidario.md)
 
 ### Massas
 
